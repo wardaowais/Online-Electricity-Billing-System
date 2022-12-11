@@ -1,0 +1,10 @@
+218357,Ayesha,lakhani crystal ,sindh,karachi,ayeshaowais7890@gmail.com ,03252375425,Inside,Electric Meter,022,Normal,30,89,Febuary
+121821,warda,soldier,sindh,karachi,warda@gmail.com,097765,Outside,Electric Meter,011,Normal,30,4567,January
+838374,uzma,soldier,hyy,karchi,hhh,000,Outside,Electric Meter,011,Normal,30,440,January
+386363,hoor,waqar,sindh,karavi,hoor@gmail,56677,Outside,Electric Meter,011,Normal,30,78,January
+356363,Musfira,waqar,sindh,hyderabad,hoor@gmail,56677,Outside,Electric Meter,011,Normal,30,897,January
+876814,ufuis,yuadwyua,,,,,Outside,Electric Meter,011,Normal,30,890,January
+532583,sana,nazimabad,pakistan,karachi,sana23@gmail,06677888,Outside,Electric Meter,011,Normal,30,678,January
+830712,yusra,Sarafa Bazar,pakistan,karachi,yusra@gmail,7887787887,Outside,Electric Meter,011,Normal,30,,April
+327748,sahla,memar,sindh,karachi,sahla@,9883773,Outside,Electric Meter,011,Normal,30,,January
+32764,,,,,,,Outside,Electric Meter,011,Normal,30,,January
